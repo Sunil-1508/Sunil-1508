@@ -20,7 +20,7 @@
   <li>Coding</li>
   <li>C++, Python, JAVA</li>
   <li>Front-end Technologies (HTML, CSS, JavaScript)</li>
-  <li>Database Management (MySQL, MongoDB)</li>
+  <li>Database Management MySQL</li>
   
   
 </ul>
