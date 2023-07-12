@@ -19,7 +19,7 @@
   <li>Problem Solving</li>
   <li>Coding</li>
   <li>C++, Python, JAVA</li>
-  <li>Front-end Technologies (HTML, CSS, JavaScript)</li>
+  <li>Front-end Technologies (HTML, CSS, JavaScript,Media Queries, Bootstrap)</li>
   <li>Database Management MySQL</li>
   
   
